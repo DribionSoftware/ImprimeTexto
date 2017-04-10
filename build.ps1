@@ -4,7 +4,7 @@
  $srcDir = "$rootDir\nuget\CDSImprimeTexto.net"
  $slns = ls "$rootDir\*.sln"
  $packagesDir = "$rootDir\packages"
- $nuspecPath = "$rootDir\nuget\boleto.net\boleto.net.nuspec"
+ $nuspecPath = "$rootDir\nuget\CDSImprimeTexto.nuspec"
  $nugetExe = "$packagesDir\NuGet.CommandLine.3.5.0\tools\NuGet.exe"
  $nupkgPath = "$rootDir\src\NuGet\CDSImprimeTexto.{0}.nupkg"
 
