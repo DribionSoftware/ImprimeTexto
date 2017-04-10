@@ -7,7 +7,7 @@ after_build:
       . .\build.ps1 Pack-Nuget
 
 artifacts:
-  - path: src\nuget\boleto.net
+  - path: \nuget
     name: src
 
 deploy:
