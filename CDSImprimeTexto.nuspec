@@ -12,7 +12,7 @@
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
         <description>Componetne para impressão matricial em .Net</description>
         <releaseNotes></releaseNotes>
-        <copyright>Copyright CDSInformatica 2017</copyright>
+        <copyright>Copyright CDS Informatica 2017</copyright>
         <tags>matricial,impressao</tags>
         <frameworkAssemblies>
             <frameworkAssembly assemblyName="System" targetFramework="" />
