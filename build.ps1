@@ -1,7 +1,7 @@
  $rootDir = $env:APPVEYOR_BUILD_FOLDER
  $buildNumber = $env:APPVEYOR_BUILD_NUMBER
  $solutionFile = "$rootDir\CDSImprimeTexto.sln"
- $srcDir = "$rootDir\nuget\CDSImprimeTexto.net"
+ $srcDir = "$rootDir\nuget"
  $slns = ls "$rootDir\*.sln"
  $packagesDir = "$rootDir\packages"
  $nuspecPath = "$rootDir\CDSImprimeTexto.nuspec"
