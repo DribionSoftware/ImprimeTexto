@@ -6,7 +6,7 @@
  $packagesDir = "$rootDir\packages"
  $nuspecPath = "$rootDir\CDSImprimeTexto.nuspec"
  $nugetExe = "$packagesDir\NuGet.CommandLine.3.5.0\tools\NuGet.exe"
- $nupkgPath = "$rootDir\src\NuGet\CDSImprimeTexto.{0}.nupkg"
+ $nupkgPath = "$rootDir\NuGet\CDSImprimeTexto.{0}.nupkg"
 
 foreach($sln in $slns) {
    nuget restore $sln
