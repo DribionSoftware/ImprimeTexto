@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="utf-8"?>
 <package xmlns="http://schemas.microsoft.com/packaging/2011/10/nuspec.xsd">
     <metadata>
-        <id>cdsimprimetexto</id>
+        <id>CDSImprimeTexto</id>
         <version>1.0.0</version>
         <title>CDSImprimeTexto</title>
         <authors>carloscds</authors>
@@ -10,7 +10,7 @@
         <projectUrl>https://github.com/CDSInformatica/ImprimeTexto</projectUrl>
         <iconUrl>https://github.com/CDSInformatica/ImprimeTexto/impressora.ico</iconUrl>
         <requireLicenseAcceptance>false</requireLicenseAcceptance>
-        <description>Componetne para impressão matricial em .Net</description>
+        <description>Componente para impressao matricial em .Net</description>
         <releaseNotes></releaseNotes>
         <copyright>Copyright CDS Informatica 2017</copyright>
         <tags>matricial,impressao</tags>

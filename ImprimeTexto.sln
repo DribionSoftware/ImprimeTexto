@@ -7,6 +7,11 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "CDSImprimeTexto", "CDSImpri
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TestaImpressao", "TestaImpressao\TestaImpressao.csproj", "{3E33871B-A556-491F-953B-EA24296F7F0B}"
 EndProject
+Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "Nuget", "Nuget", "{ED265121-9248-471C-A97A-F9BFAAFA765D}"
+	ProjectSection(SolutionItems) = preProject
+		CDSImprimeTexto.nuspec = CDSImprimeTexto.nuspec
+	EndProjectSection
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
