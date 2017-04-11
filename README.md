@@ -4,7 +4,7 @@ Componente para impressão matricial usando .Net.
 Se você precisa usar uma impressora matricial diretamente na porta LPTx, este componente irá lhe ajudar a criar impressoes no estilo MS-DOS.
 
 Muito simples de usar:
-''''csharp
+'''csharp
 ImprimeTexto imp = new ImprimeTexto();
 
             imp.Inicio("LPT1");
@@ -35,7 +35,7 @@ ImprimeTexto imp = new ImprimeTexto();
             imp.Pula(2);
             imp.Fim();
 
-''''
+'''
 
 [![Build status](https://ci.appveyor.com/api/projects/status/egxramujkc2j8vpx?svg=true)](https://ci.appveyor.com/project/carloscds/imprimetexto)
 [![Issues open](https://img.shields.io/github/issues/CDSInformatica/ImprimeTexto.svg)](https://github.com/CDSInformatica/ImprimeTexto/issues)
