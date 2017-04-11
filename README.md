@@ -5,7 +5,7 @@ Se você precisa usar uma impressora matricial diretamente na porta LPTx, este c
 
 [![Build status](https://ci.appveyor.com/api/projects/status/egxramujkc2j8vpx?svg=true
 )](https://ci.appveyor.com/project/carloscds/imprimetexto)
-[![Issues open](https://img.shields.io/github/issues/CDSInformatica/ImprimeTexto.svg)
+[![Issues open](https://img.shields.io/github/issues/CDSInformatica/ImprimeTexto.svg)]
 [![Nuget count](http://img.shields.io/nuget/v/CDSInformatica/ImprimeTexto.svg)](https://www.nuget.org/packages/CDSImprimeTexto/)
 
 
