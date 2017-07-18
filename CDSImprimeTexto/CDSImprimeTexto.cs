@@ -8,7 +8,6 @@ namespace CDSSoftware
 
     /// <summary>
     /// Classe para impressão de textos diretamente para a porta da impressora.
-    /// © 2004 CDS Informática Ltda.
     /// </summary>
     public class ImprimeTexto
     {
